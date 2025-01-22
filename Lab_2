@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Сравнительная таблица IDE</title>
+    <style>
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 10px;
+            border: 1px solid #ddd;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        summary {
+            font-weight: bold;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+
+    <details>
+        <summary>Сравнительная таблица IDE</summary>
+        <table>
+            <thead>
+                <tr>
+                    <th>IDE</th>
+                    <th>Язык программирования</th>
+                    <th>Платформа</th>
+                    <th>Стоимость</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Visual Studio Code</td>
+                    <td>JavaScript, Python, C++ и другие</td>
+                    <td>Windows, macOS, Linux</td>
+                    <td>Бесплатно</td>
+                </tr>
+                <tr>
+                    <td>IntelliJ IDEA</td>
+                    <td>Java, Kotlin, Scala, Groovy</td>
+                    <td>Windows, macOS, Linux</td>
+                    <td>Платно (есть бесплатная версия)</td>
+                </tr>
+                <tr>
+                    <td>PyCharm</td>
+                    <td>Python</td>
+                    <td>Windows, macOS, Linux</td>
+                    <td>Платно (есть бесплатная версия)</td>
+                </tr>
+                <tr>
+                    <td>Atom</td>
+                    <td>JavaScript, HTML, CSS и другие</td>
+                    <td>Windows, macOS, Linux</td>
+                    <td>Бесплатно</td>
+                </tr>
+                <tr>
+                    <td>Eclipse</td>
+                    <td>Java, C++, Python и другие</td>
+                    <td>Windows, macOS, Linux</td>
+                    <td>Бесплатно</td>
+                </tr>
+            </tbody>
+        </table>
+    </details>
+
+</body>
+</html>

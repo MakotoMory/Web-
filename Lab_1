@@ -35,5 +35,10 @@
         <li>💼 <a href="https://www.linkedin.com/in/ivan" target="_blank">LinkedIn</a></li>
         <li>🐦 <a href="https://twitter.com/ivan" target="_blank">Twitter</a></li>
     </ul>
+
+    <p>Для связи со мной, пожалуйста, перейдите на страницу: 
+        <a href="contact_me.html">Contact me</a>
+    </p>
+
 </body>
 </html>
